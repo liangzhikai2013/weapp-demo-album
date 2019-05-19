@@ -1,4 +1,4 @@
-# 微信小程序示例 - 小相册
+# 微信小程序示例 - 小相册-5.19
 
 小相册是结合腾讯云[对象存储服务](https://www.qcloud.com/product/cos.html)（Cloud Object Service，简称COS）制作的一个微信小程序示例。在代码结构上包含如下两部分：
 
