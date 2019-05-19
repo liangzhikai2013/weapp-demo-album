@@ -22,6 +22,9 @@
 
 ![整体架构](http://easyimage-10028115.file.myqcloud.com/internal/t3n2rrlm.ulr.jpg)
 
+### 「小相册」源码分析
+(https://segmentfault.com/img/remote/1460000007033835?w=1074&h=1256)
+
 ### 1. 准备域名和证书
 
 在微信小程序中，所有的网路请求受到严格限制，不满足条件的域名和协议无法请求，具体包括：
